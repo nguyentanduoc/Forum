@@ -1,0 +1,2 @@
+POJOs: plain old java objects - các đối tượng java thuận túy
+ConnectionPool:
